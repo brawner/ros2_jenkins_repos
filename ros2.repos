@@ -257,7 +257,7 @@ repositories:
     version: crystal-devel
   ros-visualization/rqt_shell:
     type: git
-    url: https://github.com/ros-visualisation/rqt_shell.git
+    url: https://github.com/ros-visualization/rqt_shell.git
     version: crystal-devel
   ros-visualization/rqt_py_console:
     type: git
