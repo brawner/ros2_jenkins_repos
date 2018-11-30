@@ -246,11 +246,11 @@ repositories:
   ros-visualization/python_qt_binding:
     type: git
     url: https://github.com/ros-visualization/python_qt_binding.git
-    version: lint_fix
+    version: ros2-port-windows
   ros-visualization/qt_gui_core:
     type: git
     url: https://github.com/ros-visualization/qt_gui_core.git
-    version: crystal-devel
+    version: ros2_port_windows
   ros-visualization/rqt:
     type: git
     url: https://github.com/ros-visualization/rqt.git
