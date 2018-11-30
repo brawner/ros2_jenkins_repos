@@ -250,7 +250,7 @@ repositories:
   ros-visualization/qt_gui_core:
     type: git
     url: https://github.com/ros-visualization/qt_gui_core.git
-    version: test_sip_lib_import
+    version: test_windows_port
   ros-visualization/rqt:
     type: git
     url: https://github.com/ros-visualization/rqt.git
